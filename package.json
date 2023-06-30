@@ -1,0 +1,7 @@
+{
+  "name": "microblog",
+  "version": "1.0.0",
+  "description": "Tiny microblogging library",
+  "repository": "https://github.com/michaelkolesidis/microblog.git",
+  "author": "Michael Kolesidis <michael.kolesidis@gmail.com>"
+}
